@@ -28,6 +28,6 @@ The interfaces: <br>
 <li>Fly (Implemented by animals that can fly)</li>
 <li>Swim (Implemented by animals that can swim)</li>
 </ul> <br>
-The Bird and Fish class inherit from the Animal class, while Chicken and Sparrow are both child classes of Bird and Guppy and FlyingFish are both child classes of Fish. <br><br>
+The Bird and Fish class inherit from the Animal class, while Chicken and Sparrow are both child classes of Bird and Guppy and FlyingFish are both child classes of Fish. <br> 
 ### Date Completed: <br>
 14-04-2023
