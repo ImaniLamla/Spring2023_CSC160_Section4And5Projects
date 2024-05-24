@@ -1,4 +1,4 @@
-# Spring2023_CSC160_Section4And5Projects
+# Spring2023_CSC160_Section4And5Project
 ### Section 4 and 5 Project: <br>
 Zoo_Keeper_App
 ### Description Of The Program: <br>
